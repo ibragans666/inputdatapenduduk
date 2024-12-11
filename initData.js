@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "address": "RT 01/RW 01, TRIHANGGO, GAMPING, KABUPPATEN SLEMAN, DAERAH ISTIMEWA YOGYAKARTA",
                 "occupation": "MEMANCING",
                 "nationality": "WNI",
-                "status": "HIDUP"
+                "status": "AKTIF"
             },
             {
                 "nik": "6543210987654321",
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 "address": "RT 02/RW 02, TUNGGULWULUNG, LOWOKWARU, MALANG, JAWA TIMUR",
                 "occupation": "PETANI",
                 "nationality": "WNI",
-                "status": "HIDUP"
+                "status": "TIDAK AKTIF"
             }
         ]
     };
